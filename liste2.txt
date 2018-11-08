@@ -13,4 +13,8 @@ Q
 ASGER
 TOBIAS
 
+<<<<<<< HEAD
 tomater
+=======
+juice
+>>>>>>> f3
